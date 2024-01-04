@@ -1,0 +1,18 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Sign Up</h1>
+                    <center>
+                <label for="fn">First Name</lable><br>
+                <input type="text" id="fn" name="fn" value=""><br><br>
+                <label for="ln">Last Name</lable><br>
+                <input type="text" id="ln" name="ln" value=""><br><br>
+                <label for="em">E-mail</lable><br>
+                <input type="email" id="em" name="em" value=""><br><br>
+                <label for="p">Password</lable><br>
+                <input type="text" id="p" name="p" value=""><br><br>
+                <button>Submit</button><br><br>
+                </center>
+    </body>
+</html>
